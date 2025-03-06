@@ -1,0 +1,44 @@
+{
+  "rice": {
+    "image": "https://example.com/rice.jpg",
+    "temperature": "25-35°C",
+    "humidity": "60-80%",
+    "pH": "5.0-6.5",
+    "rainfall": "1200-1500mm"
+  },
+  "wheat": {
+    "image": "https://example.com/wheat.jpg",
+    "temperature": "15-25°C",
+    "humidity": "40-60%",
+    "pH": "6.0-7.5",
+    "rainfall": "500-1000mm"
+  },
+  "maize": {
+    "image": "https://example.com/maize.jpg",
+    "temperature": "20-30°C",
+    "humidity": "50-70%",
+    "pH": "5.5-7.0",
+    "rainfall": "600-1200mm"
+  },
+  "sugarcane": {
+    "image": "https://example.com/sugarcane.jpg",
+    "temperature": "21-27°C",
+    "humidity": "70-90%",
+    "pH": "5.5-6.5",
+    "rainfall": "1500-2500mm"
+  },
+  "barley": {
+    "image": "https://example.com/barley.jpg",
+    "temperature": "12-18°C",
+    "humidity": "30-50%",
+    "pH": "6.0-7.5",
+    "rainfall": "500-900mm"
+  },
+  "millet": {
+    "image": "https://example.com/millet.jpg",
+    "temperature": "25-32°C",
+    "humidity": "40-60%",
+    "pH": "5.0-7.0",
+    "rainfall": "400-800mm"
+  }
+}
