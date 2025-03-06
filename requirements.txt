@@ -47,6 +47,7 @@ djangorestframework==3.15.1
 draftjs-exporter==5.0.0
 et-xmlfile==1.1.0
 factory-boy==3.2.1
+fask
 Faker==24.4.0
 filelock==3.15.4
 filetype==1.2.0
