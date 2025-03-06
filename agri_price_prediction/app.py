@@ -2,6 +2,7 @@ from flask import Flask, jsonify, request
 import random
 import datetime
 import requests
+import os
 
 app = Flask(__name__)
 
@@ -119,4 +120,5 @@ def weather():
     return jsonify(get_weather())
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Use Render-assigned port
+    app.run(host="0.0.0.0", port=port, debug=True)
