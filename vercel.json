@@ -1,0 +1,15 @@
+{
+    "builds": [
+      {
+        "src": "agri_price_prediction/app.py",
+        "use": "@vercel/python"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "agri_price_prediction/app.py"
+      }
+    ]
+  }
+  
