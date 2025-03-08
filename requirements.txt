@@ -10,6 +10,7 @@ async-timeout==4.0.3
 Babel==2.14.0
 barcode==1.0.4
 beautifulsoup4==4.12.3
+vercel
 blinker==1.8.2
 Brotli==1.1.0
 cashfree-pg==4.1.3
