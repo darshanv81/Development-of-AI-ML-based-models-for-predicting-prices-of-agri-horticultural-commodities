@@ -33,8 +33,7 @@ numpy==2.0.2
 opt_einsum==3.4.0
 optree==0.14.0
 packaging==24.2
-pandas==2.2.3
-pillow==10.0.0  
+pandas==2.2.3  
 protobuf==5.29.3
 Pygments==2.19.1
 pyparsing==3.2.1
